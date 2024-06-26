@@ -1,0 +1,428 @@
+Supplemental Table 7: Genes (ncNATs and pcGenes) abberantly activated in cancer and cancer-specific ncNATs.,,,,
+gene_id,gene_name,tissue,type,type2
+ENSG00000181800.6,CELF2-AS1,Breast_Tumour,testis/placenta expression,ncNAT
+ENSG00000181800.6,CELF2-AS1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000223949.8,ROR1-AS1,Kidney_Tumour,testis/placenta expression,ncNAT
+ENSG00000224883.1,Z99716.1,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000225542.2,ZNF385D-AS1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000225833.1,GS1-594A7.3,Breast_Tumour,testis/placenta expression,ncNAT
+ENSG00000225833.1,GS1-594A7.3,Lung_Tumour,testis/placenta expression,ncNAT
+ENSG00000225833.1,GS1-594A7.3,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000229021.2,AL450992.1,Kidney_Tumour,testis/placenta expression,ncNAT
+ENSG00000229967.1,MAGEA4-AS1,Breast_Tumour,testis/placenta expression,ncNAT
+ENSG00000229967.1,MAGEA4-AS1,Lung_Tumour,testis/placenta expression,ncNAT
+ENSG00000229967.1,MAGEA4-AS1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000229970.3,AC007128.1,Lung_Tumour,testis/placenta expression,ncNAT
+ENSG00000229970.3,AC007128.1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000229970.3,AC007128.1,Bladder_Tumour,testis/placenta expression,ncNAT
+ENSG00000229970.3,AC007128.1,Uterus_Tumour,testis/placenta expression,ncNAT
+ENSG00000229970.3,AC007128.1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000229970.3,AC007128.1,Prostate_Tumour,testis/placenta expression,ncNAT
+ENSG00000230010.2,AL049646.1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000230955.1,AL929472.2,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000231216.1,GS1-600G8.3,Breast_Tumour,testis/placenta expression,ncNAT
+ENSG00000231216.1,GS1-600G8.3,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000231542.1,TAB3-AS1,Lung_Tumour,testis/placenta expression,ncNAT
+ENSG00000231542.1,TAB3-AS1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000231542.1,TAB3-AS1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000231542.1,TAB3-AS1,Bladder_Tumour,testis/placenta expression,ncNAT
+ENSG00000231542.1,TAB3-AS1,Uterus_Tumour,testis/placenta expression,ncNAT
+ENSG00000233222.2,AL513523.3,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000233854.2,POU6F2-AS2,Lung_Tumour,testis/placenta expression,ncNAT
+ENSG00000233854.2,POU6F2-AS2,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000233854.2,POU6F2-AS2,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000234263.2,MAP3K5-AS1,Kidney_Tumour,testis/placenta expression,ncNAT
+ENSG00000234352.9,AC009264.1,Lung_Tumour,testis/placenta expression,ncNAT
+ENSG00000234352.9,AC009264.1,Uterus_Tumour,testis/placenta expression,ncNAT
+ENSG00000234352.9,AC009264.1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000234707.3,SEC61G-DT,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000235410.1,AL157896.1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000236340.6,GRM8-AS1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000236449.2,AC010894.2,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000236449.2,AC010894.2,Bladder_Tumour,testis/placenta expression,ncNAT
+ENSG00000237259.1,ZNF133-AS1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000237259.1,ZNF133-AS1,Uterus_Tumour,testis/placenta expression,ncNAT
+ENSG00000239311.1,AC092916.1,Breast_Tumour,testis/placenta expression,ncNAT
+ENSG00000239311.1,AC092916.1,Kidney_Tumour,testis/placenta expression,ncNAT
+ENSG00000239311.1,AC092916.1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000239311.1,AC092916.1,Lung_Tumour,testis/placenta expression,ncNAT
+ENSG00000239311.1,AC092916.1,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000239311.1,AC092916.1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000249196.6,TMEM132D-AS1,Colon_Tumour,testis/placenta expression,ncNAT
+ENSG00000249216.1,AC105389.2,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000250838.1,AC091133.3,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000250910.8,AC097467.3,Bladder_Tumour,testis/placenta expression,ncNAT
+ENSG00000253374.5,AC023644.1,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000253374.5,AC023644.1,Prostate_Tumour,testis/placenta expression,ncNAT
+ENSG00000255091.1,AC087442.1,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000255539.1,AP002336.3,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000255843.1,AP000593.3,Bladder_Tumour,testis/placenta expression,ncNAT
+ENSG00000257434.1,AC073525.1,Prostate_Tumour,testis/placenta expression,ncNAT
+ENSG00000257636.6,G2E3-AS1,Lung_Tumour,testis/placenta expression,ncNAT
+ENSG00000257636.6,G2E3-AS1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000257636.6,G2E3-AS1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000257636.6,G2E3-AS1,Bladder_Tumour,testis/placenta expression,ncNAT
+ENSG00000261207.1,AL031717.1,Breast_Tumour,testis/placenta expression,ncNAT
+ENSG00000261410.1,AC009142.1,Pancreas_Tumour,testis/placenta expression,ncNAT
+ENSG00000267125.2,AC012615.3,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000267448.6,AC010649.1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000267579.1,AC104971.2,Breast_Tumour,testis/placenta expression,ncNAT
+ENSG00000267760.1,AC011478.1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000268981.5,AC024563.1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000269495.1,AC011483.2,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000270094.1,AL670729.1,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000272154.5,AC244517.2,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000273063.1,AC007250.1,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000277695.1,AC097478.3,Thyroid Gland_Tumour,testis/placenta expression,ncNAT
+ENSG00000278907.1,AC005609.2,Kidney_Tumour,testis/placenta expression,ncNAT
+ENSG00000278936.1,AC244517.4,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000279220.4,GPR1-AS,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000279220.4,GPR1-AS,Ovary_Tumour,testis/placenta expression,ncNAT
+ENSG00000279375.1,AC244517.7,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000280485.1,AL358154.1,Liver_Tumour,testis/placenta expression,ncNAT
+ENSG00000284823.1,AL356747.1,Breast_Tumour,testis/placenta expression,ncNAT
+ENSG00000284823.1,AL356747.1,Bladder_Tumour,testis/placenta expression,ncNAT
+ENSG00000285518.1,AC004900.1,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000285788.1,AC099782.1,Thyroid Gland_Tumour,testis/placenta expression,ncNAT
+ENSG00000286168.2,AC024937.3,Prostate_Tumour,testis/placenta expression,ncNAT
+ENSG00000287521.1,AC034148.1,Brain_Tumour,testis/placenta expression,ncNAT
+LOC100507443,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+LOC102724916,NA,Thyroid Gland_Tumour,testis/placenta expression,ncNAT
+LOC105370269,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+LOC105371675,NA,Breast_Tumour,testis/placenta expression,ncNAT
+LOC105371675,NA,Lung_Tumour,testis/placenta expression,ncNAT
+LOC105371675,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+LOC105371675,NA,Bladder_Tumour,testis/placenta expression,ncNAT
+LOC105372225,NA,Liver_Tumour,testis/placenta expression,ncNAT
+LOC105375046,NA,Breast_Tumour,testis/placenta expression,ncNAT
+LOC105377277,NA,Prostate_Tumour,testis/placenta expression,ncNAT
+LOC105378465,NA,Liver_Tumour,testis/placenta expression,ncNAT
+LOC124901963,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+LOC124902060,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+LOC124902060,NA,Bladder_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr1.190,NA,Brain_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr1.337,NA,Breast_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr10.102,NA,Liver_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr10.102,NA,Thyroid Gland_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr11.23,NA,Prostate_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr11.43,NA,Liver_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr12.45,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr12.49,NA,Thyroid Gland_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr13.59,NA,Breast_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr13.59,NA,Uterus_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr13.59,NA,Prostate_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr14.82,NA,Thyroid Gland_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr18.35,NA,Brain_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr19.11,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr19.30,NA,Brain_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr3.129,NA,Liver_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr3.201,NA,Prostate_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr3.79,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr4.126,NA,Liver_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr5.180,NA,Bladder_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr5.34,NA,Brain_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr8.123,NA,Brain_Tumour,testis/placenta expression,ncNAT
+MSTRG.SL.chr9.19,NA,Prostate_Tumour,testis/placenta expression,ncNAT
+NONHSAG017919.2,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+NONHSAG026062.2,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG026481.2,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG034038.2,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG045354.2,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG051013.2,NA,Lung_Tumour,testis/placenta expression,ncNAT
+NONHSAG051013.2,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+NONHSAG051013.2,NA,Bladder_Tumour,testis/placenta expression,ncNAT
+NONHSAG056056.2,NA,Breast_Tumour,testis/placenta expression,ncNAT
+NONHSAG056870.1,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG057339.1,NA,Uterus_Tumour,testis/placenta expression,ncNAT
+NONHSAG058232.1,NA,Thyroid Gland_Tumour,testis/placenta expression,ncNAT
+NONHSAG063056.1,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+NONHSAG063125.1,NA,Liver_Tumour,testis/placenta expression,ncNAT
+NONHSAG073645.1,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG075918.1,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG076175.1,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG076595.1,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+NONHSAG081704.1,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG093556.1,NA,Breast_Tumour,testis/placenta expression,ncNAT
+NONHSAG093812.1,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG097369.1,NA,Lung_Tumour,testis/placenta expression,ncNAT
+NONHSAG097369.1,NA,Uterus_Tumour,testis/placenta expression,ncNAT
+NONHSAG097369.1,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+NONHSAG099723.1,NA,Liver_Tumour,testis/placenta expression,ncNAT
+NONHSAG099723.1,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+NONHSAG108322.1,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG113489.1,NA,Brain_Tumour,testis/placenta expression,ncNAT
+NONHSAG113489.1,NA,Liver_Tumour,testis/placenta expression,ncNAT
+NONHSAG114459.1,NA,Ovary_Tumour,testis/placenta expression,ncNAT
+PCNA-AS1,NA,Brain_Tumour,testis/placenta expression,ncNAT
+ENSG00000222017.1,AC011997.1,Ovary_Tumour,specific,ncNAT
+ENSG00000224814.1,AC114812.2,Liver_Tumour,specific,ncNAT
+ENSG00000226779.1,NAALADL2-AS2,Lung_Tumour,specific,ncNAT
+ENSG00000226779.1,NAALADL2-AS2,Kidney_Tumour,specific,ncNAT
+ENSG00000226779.1,NAALADL2-AS2,Prostate_Tumour,specific,ncNAT
+ENSG00000227303.1,AC239727.1,Thyroid Gland_Tumour,specific,ncNAT
+ENSG00000233338.1,TLR8-AS1,Lung_Tumour,specific,ncNAT
+ENSG00000233338.1,TLR8-AS1,Ovary_Tumour,specific,ncNAT
+ENSG00000233589.1,AL138789.1,Kidney_Tumour,specific,ncNAT
+ENSG00000237581.1,AC005538.1,Prostate_Tumour,specific,ncNAT
+ENSG00000248268.1,AC010275.1,Ovary_Tumour,specific,ncNAT
+ENSG00000250619.1,AC021088.1,Brain_Tumour,specific,ncNAT
+ENSG00000250748.6,AC025419.1,Thyroid Gland_Tumour,specific,ncNAT
+ENSG00000253121.1,AC120042.2,Brain_Tumour,specific,ncNAT
+ENSG00000254314.1,AC021915.2,Prostate_Tumour,specific,ncNAT
+ENSG00000257935.2,LHX5-AS1,Brain_Tumour,specific,ncNAT
+ENSG00000258197.1,NKX2-2-AS1,Brain_Tumour,specific,ncNAT
+ENSG00000259307.1,PLCB2-AS1,Bladder_Tumour,specific,ncNAT
+ENSG00000264272.1,AC100786.1,Brain_Tumour,specific,ncNAT
+ENSG00000264458.1,AC025211.1,Brain_Tumour,specific,ncNAT
+ENSG00000269148.1,AC092301.1,Brain_Tumour,specific,ncNAT
+ENSG00000269349.1,AC022150.3,Bladder_Tumour,specific,ncNAT
+ENSG00000286618.1,AC131944.1,Brain_Tumour,specific,ncNAT
+LOC105374709,NA,Thyroid Gland_Tumour,specific,ncNAT
+LOC105377270,NA,Breast_Tumour,specific,ncNAT
+LOC105377270,NA,Liver_Tumour,specific,ncNAT
+LOC124904198,NA,Kidney_Tumour,specific,ncNAT
+LOC124904198,NA,Pancreas_Tumour,specific,ncNAT
+LOC124904356,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr1.199,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr1.228,NA,Bladder_Tumour,specific,ncNAT
+MSTRG.SL.chr1.284,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr1.312,NA,Uterus_Tumour,specific,ncNAT
+MSTRG.SL.chr10.157,NA,Breast_Tumour,specific,ncNAT
+MSTRG.SL.chr10.157,NA,Lung_Tumour,specific,ncNAT
+MSTRG.SL.chr10.61,NA,Lung_Tumour,specific,ncNAT
+MSTRG.SL.chr10.77,NA,Breast_Tumour,specific,ncNAT
+MSTRG.SL.chr11.116,NA,Colon_Tumour,specific,ncNAT
+MSTRG.SL.chr11.150,NA,Uterus_Tumour,specific,ncNAT
+MSTRG.SL.chr11.150,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr11.158,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chr11.51,NA,Uterus_Tumour,specific,ncNAT
+MSTRG.SL.chr11.63,NA,Bladder_Tumour,specific,ncNAT
+MSTRG.SL.chr12.109,NA,Bladder_Tumour,specific,ncNAT
+MSTRG.SL.chr12.136,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chr12.166,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chr12.33,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr12.36,NA,Lung_Tumour,specific,ncNAT
+MSTRG.SL.chr12.36,NA,Kidney_Tumour,specific,ncNAT
+MSTRG.SL.chr13.21,NA,Liver_Tumour,specific,ncNAT
+MSTRG.SL.chr13.36,NA,Uterus_Tumour,specific,ncNAT
+MSTRG.SL.chr13.71,NA,Lung_Tumour,specific,ncNAT
+MSTRG.SL.chr14.5,NA,Uterus_Tumour,specific,ncNAT
+MSTRG.SL.chr14.94,NA,Breast_Tumour,specific,ncNAT
+MSTRG.SL.chr16.13,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chr18.46,NA,Uterus_Tumour,specific,ncNAT
+MSTRG.SL.chr18.46,NA,Kidney_Tumour,specific,ncNAT
+MSTRG.SL.chr18.46,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr19.159,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chr19.26,NA,Brain_Tumour,specific,ncNAT
+MSTRG.SL.chr19.46,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr19.90,NA,Brain_Tumour,specific,ncNAT
+MSTRG.SL.chr2.16,NA,Bladder_Tumour,specific,ncNAT
+MSTRG.SL.chr2.232,NA,Prostate_Tumour,specific,ncNAT
+MSTRG.SL.chr2.84,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chr20.69,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chr21.39,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr21.8,NA,Liver_Tumour,specific,ncNAT
+MSTRG.SL.chr3.159,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr3.67,NA,Breast_Tumour,specific,ncNAT
+MSTRG.SL.chr3.67,NA,Kidney_Tumour,specific,ncNAT
+MSTRG.SL.chr3.69,NA,Breast_Tumour,specific,ncNAT
+MSTRG.SL.chr3.98,NA,Kidney_Tumour,specific,ncNAT
+MSTRG.SL.chr4.145,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr4.154,NA,Brain_Tumour,specific,ncNAT
+MSTRG.SL.chr4.38,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr4.42,NA,Lung_Tumour,specific,ncNAT
+MSTRG.SL.chr4.60,NA,Liver_Tumour,specific,ncNAT
+MSTRG.SL.chr4.62,NA,Liver_Tumour,specific,ncNAT
+MSTRG.SL.chr5.159,NA,Bladder_Tumour,specific,ncNAT
+MSTRG.SL.chr5.176,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chr5.62,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr6.157,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chr6.33,NA,Uterus_Tumour,specific,ncNAT
+MSTRG.SL.chr7.168,NA,Brain_Tumour,specific,ncNAT
+MSTRG.SL.chr7.54,NA,Liver_Tumour,specific,ncNAT
+MSTRG.SL.chr7.6,NA,Breast_Tumour,specific,ncNAT
+MSTRG.SL.chr7.92,NA,Ovary_Tumour,specific,ncNAT
+MSTRG.SL.chr8.93,NA,Lung_Tumour,specific,ncNAT
+MSTRG.SL.chr9.70,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chrX.52,NA,Thyroid Gland_Tumour,specific,ncNAT
+MSTRG.SL.chrX.55,NA,Bladder_Tumour,specific,ncNAT
+MSTRG.SL.chrX.72,NA,Breast_Tumour,specific,ncNAT
+NONHSAG000886.2,NA,Brain_Tumour,specific,ncNAT
+NONHSAG008730.2,NA,Brain_Tumour,specific,ncNAT
+NONHSAG009148.2,NA,Brain_Tumour,specific,ncNAT
+NONHSAG011073.2,NA,Brain_Tumour,specific,ncNAT
+NONHSAG020649.2,NA,Brain_Tumour,specific,ncNAT
+NONHSAG025160.2,NA,Brain_Tumour,specific,ncNAT
+NONHSAG038387.2,NA,Ovary_Tumour,specific,ncNAT
+NONHSAG041757.2,NA,Bladder_Tumour,specific,ncNAT
+NONHSAG046977.2,NA,Brain_Tumour,specific,ncNAT
+NONHSAG053510.2,NA,Brain_Tumour,specific,ncNAT
+NONHSAG061674.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG063174.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG070723.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG070779.2,NA,Thyroid Gland_Tumour,specific,ncNAT
+NONHSAG071606.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG076178.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG076310.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG078553.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG079224.1,NA,Uterus_Tumour,specific,ncNAT
+NONHSAG081788.1,NA,Liver_Tumour,specific,ncNAT
+NONHSAG082122.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG087787.1,NA,Lung_Tumour,specific,ncNAT
+NONHSAG088651.1,NA,Thyroid Gland_Tumour,specific,ncNAT
+NONHSAG096242.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG099313.2,NA,Thyroid Gland_Tumour,specific,ncNAT
+NONHSAG101159.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG103679.1,NA,Ovary_Tumour,specific,ncNAT
+NONHSAG108096.1,NA,Thyroid Gland_Tumour,specific,ncNAT
+NONHSAG108683.1,NA,Brain_Tumour,specific,ncNAT
+NONHSAG113278.1,NA,Liver_Tumour,specific,ncNAT
+NONHSAG114446.1,NA,Brain_Tumour,specific,ncNAT
+ENSG00000006659.13,LGALS14,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000006659.13,LGALS14,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000068985.5,PAGE1,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000068985.5,PAGE1,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000069206.15,ADAM7,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000069206.15,ADAM7,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000075388.4,FGF4,Uterus_Tumour,testis/placenta expression,pcGene
+ENSG00000075388.4,FGF4,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000102021.11,LUZP4,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000104827.12,CGB3,Pancreas_Tumour,testis/placenta expression,pcGene
+ENSG00000120210.8,INSL6,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000120210.8,INSL6,Kidney_Tumour,testis/placenta expression,pcGene
+ENSG00000120210.8,INSL6,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000120210.8,INSL6,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000120211.4,INSL4,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000120211.4,INSL4,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000120289.12,MAGEB4,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000121446.20,RGSL1,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000121634.6,GJA8,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000123569.9,H2BW1,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000124467.19,PSG8,Thyroid Gland_Tumour,testis/placenta expression,pcGene
+ENSG00000125816.5,NKX2-4,Thyroid Gland_Tumour,testis/placenta expression,pcGene
+ENSG00000126752.8,SSX1,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000126752.8,SSX1,Thyroid Gland_Tumour,testis/placenta expression,pcGene
+ENSG00000126752.8,SSX1,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000126752.8,SSX1,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000131914.11,LIN28A,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000131914.11,LIN28A,Kidney_Tumour,testis/placenta expression,pcGene
+ENSG00000132446.7,FTHL17,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000132446.7,FTHL17,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000134640.3,MTNR1B,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000137674.4,MMP20,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000137674.4,MMP20,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000137674.4,MMP20,Kidney_Tumour,testis/placenta expression,pcGene
+ENSG00000141977.9,CIB3,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000142698.15,C1orf94,Brain_Tumour,testis/placenta expression,pcGene
+ENSG00000146857.4,STRA8,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000146857.4,STRA8,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000146857.4,STRA8,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000150676.13,CCDC83,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000155495.9,MAGEC1,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000155495.9,MAGEC1,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000155495.9,MAGEC1,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000155495.9,MAGEC1,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000156269.5,NAA11,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000156269.5,NAA11,Kidney_Tumour,testis/placenta expression,pcGene
+ENSG00000156269.5,NAA11,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000161652.12,IZUMO2,Colon_Tumour,testis/placenta expression,pcGene
+ENSG00000163254.5,CRYGC,Uterus_Tumour,testis/placenta expression,pcGene
+ENSG00000163254.5,CRYGC,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000164500.7,SPATA48,Brain_Tumour,testis/placenta expression,pcGene
+ENSG00000165583.16,SSX5,Thyroid Gland_Tumour,testis/placenta expression,pcGene
+ENSG00000165584.16,SSX3,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000165584.16,SSX3,Thyroid Gland_Tumour,testis/placenta expression,pcGene
+ENSG00000165805.10,C12orf50,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000166049.11,PASD1,Uterus_Tumour,testis/placenta expression,pcGene
+ENSG00000168619.16,ADAM18,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000171060.11,C8orf74,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000171405.12,XAGE5,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000173662.21,TAS1R1,Uterus_Tumour,testis/placenta expression,pcGene
+ENSG00000174016.11,TENT5D,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000176294.6,OR4N2,Brain_Tumour,testis/placenta expression,pcGene
+ENSG00000176566.5,DCAF4L2,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000176566.5,DCAF4L2,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000176566.5,DCAF4L2,Brain_Tumour,testis/placenta expression,pcGene
+ENSG00000179059.10,ZFP42,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000179059.10,ZFP42,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000179059.10,ZFP42,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000179059.10,ZFP42,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000180336.18,MEIOC,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000180336.18,MEIOC,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000181433.9,SAGE1,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000181433.9,SAGE1,Uterus_Tumour,testis/placenta expression,pcGene
+ENSG00000181433.9,SAGE1,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000181433.9,SAGE1,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000181552.4,EDDM3B,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000181552.4,EDDM3B,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000182111.9,ZNF716,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000182111.9,ZNF716,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000183128.7,CALHM3,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000183128.7,CALHM3,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000183269.5,OR52E8,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000183269.5,OR52E8,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000183269.5,OR52E8,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000183269.5,OR52E8,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000184507.16,NUTM1,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000184571.13,PIWIL3,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000184571.13,PIWIL3,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000185247.15,MAGEA11,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000185247.15,MAGEA11,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000185247.15,MAGEA11,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000185247.15,MAGEA11,Colon_Tumour,testis/placenta expression,pcGene
+ENSG00000185888.5,PRSS38,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000187569.3,DPPA3,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000189023.10,MAGEB16,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000189052.7,CGB5,Pancreas_Tumour,testis/placenta expression,pcGene
+ENSG00000189052.7,CGB5,Uterus_Tumour,testis/placenta expression,pcGene
+ENSG00000189064.8,GAGE2A,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000189064.8,GAGE2A,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000189064.8,GAGE2A,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000189064.8,GAGE2A,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000189064.8,GAGE2A,Colon_Tumour,testis/placenta expression,pcGene
+ENSG00000189064.8,GAGE2A,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000196431.4,CRYBA4,Uterus_Tumour,testis/placenta expression,pcGene
+ENSG00000196431.4,CRYBA4,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000196946.10,ZNF705A,Kidney_Tumour,testis/placenta expression,pcGene
+ENSG00000197123.9,ZNF679,Brain_Tumour,testis/placenta expression,pcGene
+ENSG00000197123.9,ZNF679,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000197213.10,ZSCAN5B,Uterus_Tumour,testis/placenta expression,pcGene
+ENSG00000213030.5,CGB8,Pancreas_Tumour,testis/placenta expression,pcGene
+ENSG00000215262.8,KCNU1,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000215568.9,GAB4,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000224659.2,GAGE12J,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000224659.2,GAGE12J,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000224960.5,PPP4R3C,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000231924.10,PSG1,Thyroid Gland_Tumour,testis/placenta expression,pcGene
+ENSG00000239620.3,PRR20G,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000244588.5,RAD21L1,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000251258.2,RFPL4B,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000261949.7,GFY,Kidney_Tumour,testis/placenta expression,pcGene
+ENSG00000262874.2,C19orf84,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000262874.2,C19orf84,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000268940.5,CT45A1,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000268940.5,CT45A1,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000268940.5,CT45A1,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000268940.5,CT45A1,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000268940.5,CT45A1,Colon_Tumour,testis/placenta expression,pcGene
+ENSG00000268964.3,ERVV-2,Thyroid Gland_Tumour,testis/placenta expression,pcGene
+ENSG00000269526.1,ERVV-1,Thyroid Gland_Tumour,testis/placenta expression,pcGene
+ENSG00000269586.7,CT45A10,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000269586.7,CT45A10,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000269586.7,CT45A10,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000269586.7,CT45A10,Uterus_Tumour,testis/placenta expression,pcGene
+ENSG00000269586.7,CT45A10,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000269586.7,CT45A10,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000275489.2,C17orf98,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000275489.2,C17orf98,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000278522.5,POTEB3,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000278704.1,BX004987.1,Breast_Tumour,testis/placenta expression,pcGene
+ENSG00000278704.1,BX004987.1,Kidney_Tumour,testis/placenta expression,pcGene
+ENSG00000278704.1,BX004987.1,Ovary_Tumour,testis/placenta expression,pcGene
+ENSG00000278704.1,BX004987.1,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000278704.1,BX004987.1,Liver_Tumour,testis/placenta expression,pcGene
+ENSG00000278704.1,BX004987.1,Prostate_Tumour,testis/placenta expression,pcGene
+ENSG00000278704.1,BX004987.1,Thyroid Gland_Tumour,testis/placenta expression,pcGene
+ENSG00000278704.1,BX004987.1,Bladder_Tumour,testis/placenta expression,pcGene
+ENSG00000282815.1,TEX13C,Lung_Tumour,testis/placenta expression,pcGene
+ENSG00000282815.1,TEX13C,Liver_Tumour,testis/placenta expression,pcGene

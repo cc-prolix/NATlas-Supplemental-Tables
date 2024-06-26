@@ -1,0 +1,67 @@
+Supplemental Table 4: Tissues and respective number of samples available in this study.,,,
+Tissue,Status,Total RNA-seq,Number
+Adipose Tissue,Normal,FALSE,28
+Bladder,Normal,FALSE,26
+Blood,Normal,FALSE,15
+Brain,Normal,FALSE,17
+Colon,Normal,FALSE,60
+Fallopian Tube,Normal,FALSE,11
+Heart,Normal,FALSE,31
+Kidney,Normal,FALSE,22
+Liver,Normal,FALSE,62
+Lung,Normal,FALSE,16
+Ovary,Normal,FALSE,4
+Placenta,Normal,FALSE,7
+Prostate,Normal,FALSE,18
+Skeletal Muscle,Normal,FALSE,20
+Smooth Muscle,Normal,FALSE,3
+Testis,Normal,FALSE,11
+Tonsil,Normal,FALSE,4
+Uterus,Normal,FALSE,24
+Bladder,Tumour,FALSE,36
+Breast,Tumour,FALSE,119
+Colon,Tumour,FALSE,118
+Liver,Tumour,FALSE,27
+Lung,Tumour,FALSE,124
+Ovary,Tumour,FALSE,25
+Pancreas,Tumour,FALSE,44
+Prostate,Tumour,FALSE,135
+Adipose Tissue,Normal,TRUE,4
+Adrenal Gland,Normal,TRUE,8
+Aorta,Normal,TRUE,6
+Bladder,Normal,TRUE,5
+Blood,Normal,TRUE,3
+Brain,Normal,TRUE,49
+Breast,Normal,TRUE,60
+Cervix,Normal,TRUE,9
+Colon,Normal,TRUE,33
+Esophagus,Normal,TRUE,25
+Gallbladder,Normal,TRUE,7
+Heart,Normal,TRUE,16
+Kidney,Normal,TRUE,15
+Liver,Normal,TRUE,49
+Lung,Normal,TRUE,18
+Ovary,Normal,TRUE,9
+Pancreas,Normal,TRUE,5
+Placenta,Normal,TRUE,58
+Prostate,Normal,TRUE,36
+Retina,Normal,TRUE,11
+Skeletal Muscle,Normal,TRUE,10
+Skin,Normal,TRUE,73
+Small Intestine,Normal,TRUE,3
+Spleen,Normal,TRUE,5
+Stomach,Normal,TRUE,14
+Tendon,Normal,TRUE,9
+Testis,Normal,TRUE,20
+Thymus,Normal,TRUE,3
+Thyroid Gland,Normal,TRUE,22
+Tonsil,Normal,TRUE,6
+Brain,Tumour,TRUE,35
+Breast,Tumour,TRUE,271
+Kidney,Tumour,TRUE,13
+Liver,Tumour,TRUE,34
+Lung,Tumour,TRUE,168
+Ovary,Tumour,TRUE,135
+Prostate,Tumour,TRUE,34
+Thyroid Gland,Tumour,TRUE,88
+Uterus,Tumour,TRUE,53
