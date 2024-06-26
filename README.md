@@ -4,4 +4,4 @@ The NATlas (Natural Antisense Transcript Atlas) catalogue provides a comprehensi
 
 Database URL: http://static.199.238.13.49.clients.your-server.de
 
-Supplemental Tables underlying NATlas are available here for download:
+Supplemental Tables underlying NATlas are available here for download.
